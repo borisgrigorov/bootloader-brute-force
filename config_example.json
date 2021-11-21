@@ -1,0 +1,7 @@
+{
+    "bruteforceProtection": true,
+    "imei": 123456789012345,
+    "autosave": true,
+    "failAttempts": 4,
+    "autosaveCount": 100
+}
